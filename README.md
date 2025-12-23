@@ -15,5 +15,4 @@ This is one of my first-year apprenticeship projects. It consists on making a ni
 - The foliage height cannot exceed three times the trunk height.
 - The trunk must be at least 2 characters tall.
 
-
-*This project is still a work in progress!*
+*You can test it out!!*
